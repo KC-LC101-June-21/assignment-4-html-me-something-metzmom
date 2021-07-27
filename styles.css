@@ -12,6 +12,25 @@
     text-align: center;
     border: 0px solid white;
   }
+  .table2 {
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+    border: 0px solid white;
+  }
+  .table3 {
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+    border: 0px solid white;
+         
+  }
+  .tr3 {
+    height: 115px;
+  }
+  .td3 {
+    width: 33.3333%;
+  }
   tr, td {
     border-collapse: collapse;
     width: 50%;
