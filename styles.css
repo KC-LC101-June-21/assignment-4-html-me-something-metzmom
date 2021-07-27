@@ -10,7 +10,7 @@
   }
 
 #testP {
-  color: black;
+  color: green;
 }
 
 #logoimg {
@@ -48,7 +48,7 @@
 
 body  {
     display: block;
-    margin: 8px 8px 8px 8px;
+    margin: 8px;
 }
 
 h2  {
