@@ -1,82 +1,108 @@
-.header {
+#mainHeading {
   color: #FFFFFF;
   text-align: center;
   background: #232323;
   text-shadow: 0 0 5px #FFF, 0 0 10px #FFF, 0 0 15px #FFF, 0 0 20px #49ff18, 0 0 30px #49FF18, 0 0 40px #49FF18, 0 0 55px #49FF18, 0 0 75px #49ff18;
-  color: #FFFFFF;
+  color: red;
   background: #232323;
   height: 135px;
   font-size:55px;
   }
-  /* table {
+
+#testP {
+  color: black;
+}
+
+#logoimg {
+  width: 500px;
+  height: 500px;
+}
+
+.funParagraph {
+  color: green;
+}
+
+.table2 {
     border-collapse: collapse;
     width: 100%;
     text-align: center;
     border: 0px solid white;
-  } */
-  .table2 {
+}
+
+.table3 {
     border-collapse: collapse;
     width: 100%;
     text-align: center;
-    border: 0px solid white;
-  }
-  .table3 {
-    border-collapse: collapse;
-    width: 100%;
-    text-align: center;
-    border: 0px solid white;
-           
-  }
-  .tr3 {
+    border: 0px solid white;         
+}
+
+.tr3 {
     height: 115px;
     font-size:25px;
-  }
-  .td3 {
+}
+
+.td3 {
     width: 33.33%;
     margin: 10px 100px 10px 100px;
-  }
-  
- h2  {
+}
+
+body  {
+    display: block;
+    margin: 8px 8px 8px 8px;
+}
+
+h2  {
   color: rgb(255, 103, 21);
   text-align: center;
   font-size: 70px;
- }
- h3  {
+}
+
+h3  {
   color: rgb(138, 21, 255);
   text-align: center;
   font-size:30px;
 }
- head, h1, p {
+
+h1 {
   margin: 25px 50px 75px 100px;
   padding-left: 25px;
   padding-right: 25px;
- 
- }
- p, li {
+}
+
+p {
   color: black;
+  margin: 25px 50px 75px 100px;
   text-align: center;
   font-size: 40px;
- }
+}
 
+li {
+  color: black;
+  margin:0px 10px 0px 10px;
+  text-align:center;
+  font-size: 40px;
+}
 
-
- img {
+img {
   width:300px;
   height: 300px; 
   border-radius:05%;
- }
- .sqmenuimg { 
+}
+
+.sqmenuimg { 
   width:170px;
   height:170px;
- }
- .rectmenuimg { 
+}
+ 
+.rectmenuimg { 
   width:240px;
   height:110px;
- }
- .sqplateing { 
+}
+
+.sqplateing { 
   width:300px;
   height:300px;
- }
+}
 
  /* p {
   font-size: 30px;
